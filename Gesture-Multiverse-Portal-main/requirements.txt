@@ -1,0 +1,10 @@
+face_landmarker.task
+authorized_face.jpg   ← image of authorized person
+worlds/
+    space.jpg
+    forest.jpeg
+    ocean.jpg
+    fire.jpg
+    city.jpg
+portal_multiverse_face.py
+
